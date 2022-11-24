@@ -14,6 +14,7 @@
  <br>
  <p align="center">
   ### Pra me conhecer melhor, siga nas redes abaixo!
+ </p
  
 <div> 
   <a href="https://www.instagram.com/ggmatheus.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
