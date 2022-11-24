@@ -12,7 +12,7 @@
 </div>
  
  <br>
- 
+ <p align="center">
   ### Pra me conhecer melhor, siga nas redes abaixo!
  
 <div> 
