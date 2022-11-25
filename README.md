@@ -29,6 +29,8 @@
  <p align="right" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=Berkinhas&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=20"/>
 </p>
+
+![Snake animation](https://github.com/Berkinhas/Berkinhas/blob/output/github-contribution-grid-snake.svg)
  
  <br>
  <h3 align="center">
@@ -43,7 +45,7 @@
  </h3> 
  
  
- ![Snake animation](https://github.com/Berkinhas/Berkinhas/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
 <h2 align="center"> Thanks for visiting my profile. </h2>
