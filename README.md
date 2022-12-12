@@ -16,7 +16,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br/>
  
- <img src="https://activity-graph.herokuapp.com/graph?username=Berkinhas&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Berkinhas1&label=Profile%20views&color=0e75b6&style=flat" alt="Berkinhas" /> </p>
 <br/>
    
 <p align = "center">
@@ -27,7 +27,7 @@
 </p>
  
  <p align="right" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app?username=Berkinhas&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=20"/>
+    <img src="https://github-profile-trophy.vercel.app?username=Berkinhas&column=7&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=20"/>
 </p>
 
 ![Snake animation](https://github.com/Berkinhas/Berkinhas/blob/output/github-contribution-grid-snake.svg)
