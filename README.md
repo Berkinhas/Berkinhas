@@ -6,9 +6,9 @@
  <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-2.8cbd2dc.91351d5ac9153c4fc6ede3603c6fd687.gif"/>
 </p>
 
-<h4 align="center">
+<h3 align="center">
   I'm a Systems Development student and a self-taught Computer Science student, currently I'm focusing on Front-end, using HTML5, CSS3, Bootstrap, Javascript & React.
-</h4>
+</h3>
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
