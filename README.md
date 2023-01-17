@@ -19,6 +19,11 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Berkinhas1&label=Profile%20views&color=0e75b6&style=flat" alt="Berkinhas" /> </p>
 <br/>
    
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Berkinhas&layout=compact&theme=radical"> 
+ 
+ <img src = "https://github-readme-stats.vercel.app/api?username=Berkinhas&theme=radical&show_icons=true">
+   
 <p align = "center">
   <br><br>
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Berkinhas&theme=violet-punch&hide_border=true&include_all_commits=true&line_height=27">
