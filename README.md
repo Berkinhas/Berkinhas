@@ -39,7 +39,7 @@
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Berkinhas&theme=violet-punch&hide_border=true&include_all_commits=true&line_height=27">
 </p>
  
- <p align="center" style="margin-bottom: 10px;">
+ <p align="left" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=Berkinhas&column=7&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=20"/>
 </p>
  
