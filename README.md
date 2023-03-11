@@ -30,16 +30,16 @@
 <br/>
    
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Berkinhas&layout=compact&theme=radical"> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Berkinhas&layout=compact&theme=tokyonight"> 
  
- <img src = "https://github-readme-stats.vercel.app/api?username=Berkinhas&theme=radical&show_icons=true">
+ <img src = "https://github-readme-stats.vercel.app/api?username=Berkinhas&theme=tokyonight&show_icons=true">
    
 <p align = "center">
   <br><br>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=Berkinhas&theme=violet-punch&hide_border=true&include_all_commits=true&line_height=27">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=Berkinhas&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
  
- <p align="right" style="margin-bottom: 10px;">
+ <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=Berkinhas&column=7&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=20"/>
 </p>
  
