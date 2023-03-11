@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  I'm a Systems Development student and a self-taught Computer Science student, currently I'm focusing on Front-end, using HTML5, CSS3, Bootstrap, Javascript & React.
+  I'm a Systems Development student and a self-taught Computer Science student, currently I'm focusing on Front-end, using HTML5, CSS3, Tailwind, Javascript & React.
 </h3>
   
 <div align="center" style="display: inline_block"><br>
