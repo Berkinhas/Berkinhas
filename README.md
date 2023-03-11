@@ -3,7 +3,7 @@
  Welcome to my profile! 👾
 </h1>
 <p align="center">
- <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-2.8cbd2dc.91351d5ac9153c4fc6ede3603c6fd687.gif"/>
+ <img src="https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif"/>
 </p>
 
 <h3 align="center">
@@ -39,7 +39,7 @@
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Berkinhas&theme=violet-punch&hide_border=true&include_all_commits=true&line_height=27">
 </p>
  
- <p align="left" style="margin-bottom: 10px;">
+ <p align="right" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=Berkinhas&column=7&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=20"/>
 </p>
  
