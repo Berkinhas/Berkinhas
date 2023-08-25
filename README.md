@@ -31,8 +31,6 @@
 </a><a href="#" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pentest/pentest-original.svg" alt="Stack" width="40" height="40"/>
-</a><a href="#" target="_blank" rel="noreferrer">
 </div><br/>
 
  
