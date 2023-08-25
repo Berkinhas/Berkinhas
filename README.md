@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  I'm just a guy who programs websites using JS, I like pixel art, games and some anime. I am interested in Cybersecurity, Linux and self-taught Computer Science at OSSU. I'm currently studying Typescript, C#, PostgreSQL, Vue and starting out in cybersecurity.
+  I'm just a guy who programs websites using JS, I like pixel art, games and some anime. I am interested in Cybersecurity, Linux and self-taught Computer Science at OSSU. I'm currently studying Typescript, C#, PostgreSQL, Vue, Shell Script and starting out in cybersecurity.
 </h3>
   
 <div align="center" style="display: inline_block"><br>
@@ -30,6 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Stack" width="40" height="40"/>
+</a><a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
 </div><br/>
 
