@@ -3,25 +3,35 @@
  Welcome to my profile! 👾
 </h1>
 <p align="center">
- <img src="https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif"/>
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0095794c-6589-497e-8f7f-4fdf36520fc9/de7wktw-b7d1006b-0634-4be5-87f4-be0f2f620484.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAwOTU3OTRjLTY1ODktNDk3ZS04ZjdmLTRmZGYzNjUyMGZjOVwvZGU3d2t0dy1iN2QxMDA2Yi0wNjM0LTRiZTUtODdmNC1iZTBmMmY2MjA0ODQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7wiAcNeALOETwWBFp18sjIcaKCz4CDLA18MeMSJCkfw"/>
 </p>
 
 <h3 align="center">
-  I'm a Systems Development student and a self-taught Computer Science student, currently I'm focusing on Front-end, using Javascript & React/React Native.
+  I'm just a guy who programs websites using JS, I like pixel art, games and some anime. I am interested in Cybersecurity, Linux and self-taught Computer Science at OSSU. I'm currently studying Typescript, C#, PostgreSQL, Vue and starting out in cybersecurity.
 </h3>
   
 <div align="center" style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Stack" width="40" height="40"/>
+</a><a href="#" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Stack" width="40" height="40"/>
+</a><a href="#" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Stack" width="40" height="40"/>
+</a><a href="#" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Stack" width="40" height="40"/>
  </a><a href="#" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Stack" width="40" height="40"/>
+</a><a href="#" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Stack" width="40" height="40"/>
+</a><a href="#" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pentest/pentest-original.svg" alt="Stack" width="40" height="40"/>
 </a><a href="#" target="_blank" rel="noreferrer">
 </div><br/>
 
@@ -42,7 +52,11 @@
  <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=Berkinhas&column=7&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=20"/>
 </p>
- 
+
+ <p align="center">
+ <img src="https://i.imgur.com/EJaJ5C2.png"/>
+</p>
+
  <br>
  <h3 align="center">
   Pra me conhecer melhor, siga nas redes abaixo!
