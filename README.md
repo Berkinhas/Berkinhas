@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  I'm just a guy who programs websites using JS, I like pixel art, games and some anime. I am interested in Cybersecurity, Linux and self-taught Computer Science at OSSU. I'm currently studying Typescript, C#, PostgreSQL, Vue, Shell Script and starting out in cybersecurity.
+  I'm just a guy who programs websites using JS, I like pixel art, games and some anime. I am interested in Cybersecurity, Linux and self-taught Computer Science at OSSU. I'm currently studying Typescript, C#, PostgreSQL, Vue, Bash Script and starting out in cybersecurity.
 </h3>
   
 <div align="center" style="display: inline_block"><br>
