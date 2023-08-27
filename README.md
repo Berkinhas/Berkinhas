@@ -53,8 +53,7 @@
     <img src="https://github-profile-trophy.vercel.app?username=Berkinhas&column=7&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=20"/>
 </p>
 
- <p align="center">
- <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-1707.gif"/>
+ <p align="center" size="10px">
 </p>
 
  <br>
