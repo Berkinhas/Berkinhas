@@ -3,7 +3,7 @@
  Welcome to my profile! 👾
 </h1>
 <p align="center">
- <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+ <img src="https://giffiles.alphacoders.com/211/211931.gif"/>
 </p>
 
 <h3 align="center">
