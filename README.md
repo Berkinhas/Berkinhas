@@ -8,7 +8,11 @@
 
 <h3 align="center">
  
-  I'm just a guy who programs websites using JS, I like pixel art, games and some anime. I am interested in Cybersecurity, Linux and self-taught Computer Science at OSSU. I'm currently studying Typescript, C#, PostgreSQL, Vue, Bash Script and starting out in cybersecurity.
+  [EN] I'm a tech enthusiast with a passion for programming, cybersecurity, electronics, hardware, and operating systems. I enjoy games (especially Souls-like), anime, and the Cyberpunk aesthetic. Currently, I'm diving deeper into Linux, networking, and self-studying Computer Science through OSSU while pursuing a degree in Cybersecurity at UNA. My focus is on sharpening my skills in Java, networking, Bash scripting, and exploring the vast world of cybersecurity.
+
+  [PT-BR] Sou um entusiasta de tecnologia com paixão por programação, cibersegurança, eletrônica, hardware e sistemas operacionais. Gosto de jogos (especialmente Souls-like), animes e da estética Cyberpunk. Atualmente, estou me aprofundando em Linux, redes e estudando Ciência da Computação de forma autodidata pelo OSSU, enquanto curso uma graduação em Cibersegurança pela UNA. Meu foco está em aprimorar minhas habilidades em Java, redes, scripts Bash e explorar o vasto mundo da cibersegurança.
+
+  
 
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⠀⢰⡇⠀⠀⢠⡾⠁⠀⠀⣀⠀⠀⠀⠀⠀⠀
